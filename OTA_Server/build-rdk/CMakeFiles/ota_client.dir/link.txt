@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ --sysroot=/home/bryce/rdk-sysroot -O3 -DNDEBUG CMakeFiles/ota_client.dir/ota_client.cpp.o -o ota_client  -Wl,-rpath,/usr/lib/aarch64-linux-gnu /home/bryce/rdk-sysroot/usr/lib/aarch64-linux-gnu/libcurl.so 
